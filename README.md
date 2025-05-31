@@ -16,6 +16,7 @@
 ## 📌 What You'll Find Here...
 
 🔹 **My Projects** – Showcasing what I build & learn.   
+🔹 **Resources** – In form of forked repositories and more.
 
 ---
 
