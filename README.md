@@ -15,9 +15,9 @@
 
 ## 📌 What You'll Find Here...
 
-🔹 **My Projects** – Showcasing what I build & learn.   
-🔹 **Resources** – In form of forked repositories and more.
-🔹 **Templates/Starter-kits** – That you can use to build projects faster.
+-  **My Projects** – Showcasing what I build & learn.   
+-  **Resources** – In form of forked repositories and more.
+-  **Templates/Starter-kits** – That you can use to build projects faster.
 
 ---
 
