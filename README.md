@@ -17,6 +17,7 @@
 
 🔹 **My Projects** – Showcasing what I build & learn.   
 🔹 **Resources** – In form of forked repositories and more.
+🔹 **Templates/Starter-kits** – That you can use to build projects faster.
 
 ---
 
@@ -25,12 +26,11 @@
 - **Portfolio:** [Coming Soon]  
 - **daily.dev:** [@ganeshkumatole](https://app.daily.dev/ganeshkumatole)
 - **Linkedin:** [Ganesh Kumatole](https://www.linkedin.com/in/ganesh-kumatole/)
-- **X (Twitter):** [@ganesh_kumatole](https://x.com/ganesh_kumatole)  
 - **Instagram:** [@ganeshkumatole.web](https://www.instagram.com/ganeshkumatole.web)  
 
 ⚡ **Follow me** and let's upskill together. 
 
 ---
 
-🚀 _Be the best developer you can be!_
+🚀 _Be the best Web Developer you can be!_
 
